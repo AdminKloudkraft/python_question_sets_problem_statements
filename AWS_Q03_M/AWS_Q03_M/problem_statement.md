@@ -47,7 +47,7 @@ Your pipeline should generate a report similar to the following:
 ```text
 GIT_CLONE=SUCCESS
 DEPLOYMENT=SUCCESS
-PIPELINE_NAME=Code-Pipeline-Eval
+PIPELINE_NAME=github_jenkins_apache_CICD
 BUILD_NUMBER=20
 FINAL_STATUS=SUCCESS
 TIMESTAMP=Thu May 15 02:15:30 UTC 2026

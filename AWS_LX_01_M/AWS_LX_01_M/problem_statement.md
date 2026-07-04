@@ -1,4 +1,4 @@
-# DevOps Lab: Linux File System & Directory Navigation
+# Linux Lab: Linux File System & Directory Navigation
 
 Duration : 60 Min.
 
